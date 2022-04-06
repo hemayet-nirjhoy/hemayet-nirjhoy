@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hemayet-nirjhoy
 - 👀 I’m interested in working as a programmer in Java and Python. 
-- 🌱 I’m currently working Neural-Semiconductor as an Associate Software Engineer.
+- 🌱 I’m currently working Neural-Semiconductor as a Software Engineer.
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me ...
 
